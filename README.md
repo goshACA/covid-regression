@@ -5,3 +5,10 @@ Here were used 3 main datasets, that include separate csv files
 * World Health Organization Covid-19 data
 * Undercover Covid-19 Challenge 
 * US counts Covid-19 dataset
+
+Main points:
+- Data Analysis
+- Data Visualization
+- Preprocessing Data
+- Applying Linear Regression
+- Applying Decision Tree Regression
